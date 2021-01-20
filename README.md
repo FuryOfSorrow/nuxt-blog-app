@@ -17,4 +17,13 @@ $ npm run start
 $ npm run generate
 ```
 
+## Make use of this!
+
+```bash
+If you want to create posts, using this awesome (not really) app, please be sure to use following:
+
+Login: test@test.com
+Password: 123456
+```
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
