@@ -24,6 +24,10 @@ If you want to create posts, using this awesome (not really) app, please be sure
 
 Login: test@test.com
 Password: 123456
+
+
+Use http://localhost:3000/admin/auth for authorizing
+Use http://localhost:3000 to go on the main app page
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
